@@ -1,6 +1,7 @@
 baseURL: https://organicchemblog.netlify.app/
 languageCode: en-us
 title: Organic Chemistry Blog
+logo: /logo/test-tube.gif
 theme: PaperMod
 googleAnalytics: UA-123-45
 
