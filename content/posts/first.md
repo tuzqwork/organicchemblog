@@ -19,7 +19,7 @@ author: "Lưu Huỳnh Vũ ft. Nguyễn Thanh Tùng"
 - Carbon sẽ có điện tích:
     + Âm: nếu carbon đứng trước nó mang điện dương
     + Dương: nếu carbon đứng trước nó mang điện âm.
-#### Ví dụ:
+### Ví dụ:
 - Xét điện tích trên cấu tạo của 1-chlorobutane, ta có điện tích trên các nguyên tố carbon là:
 ![Picture 1](/Charge/Picture1.png)
 - Xét điện tích của hệ liên hợp ketone hoặc aldehyde:
